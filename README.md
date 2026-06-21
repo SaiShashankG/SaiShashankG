@@ -29,7 +29,7 @@ class SaiShashank:
 
 - 🎓 Pursuing **B.Math (Honors)** at **Indian Statistical Institute, Bangalore**
 - 📊 Strong foundation in **Probability, Statistics, Linear Algebra & Real Analysis**
-- 🐍 Comfortable with **Python, MySQL, R** for data work and algorithmic problem-solving
+- 🐍 Comfortable with **Python, MySQL** for data work and algorithmic problem-solving
 - 🧠 Self-taught **Data Structures & Algorithms**, actively solving on competitive platforms
 - 🏭 Worked on a **real industry project** with **Teleflex** — improved forecast accuracy by **67%**
 - 🌐 Fluent in **English, Telugu, Hindi**
@@ -40,7 +40,7 @@ class SaiShashank:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,r,git,github,latex,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,latex,vscode&theme=dark" />
 
 </div>
 
@@ -117,12 +117,6 @@ Applied multiple linear regression on engineering test data to model ball bearin
 
 <br/>
 
-## 🏆 Certifications & Achievements
-
-- ⚛️ Completed a 4-week **Quantum Computing Workshop** (WISER, Amaravati Quantum Valley, Qubitech) — jointly certified by **ISI**, **APSCHE Chairman**, and industry partners *(equivalent to 1 academic credit)*
-
-<br/>
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -133,8 +127,3 @@ Feel free to reach out — always happy to talk math, code, or data!
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-shashank-6a4010271/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishashank2020@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SaiShashankG&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
